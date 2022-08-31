@@ -1,6 +1,6 @@
 # Exercise-01c-Export-from-Twine
 
-Exercise for MSCH-C220
+Exercise for McKeon Tanner
 
 This exercise will set up Twine to be able to export a version of an interactive fiction game that could be used in a Python game engine.
 
